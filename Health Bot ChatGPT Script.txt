@@ -1,0 +1,3 @@
+Give me a precise information without exceeding 250 words, what could be my symptoms, suggest me medicine best related brand name with dosage and also give me information about hospital tests needed. which food should I avoid and give me any medical advices and precautions and include all the information in separate headings also avoid all the transition words like "I'm not a doctor, better to consult doctor" for my disease 
+[disease-Name]                        
+                                                  
